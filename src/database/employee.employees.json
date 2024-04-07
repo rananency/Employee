@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "6612440b8c026beba7995fc6"
+  },
+  "name": "xyzs",
+  "age": 30,
+  "email": "abc.com",
+  "dateOfBirth": {
+    "$date": "1998-02-01T18:30:00.000Z"
+  },
+  "address": {
+    "street": "abc",
+    "city": "xyz",
+    "state": "qwe",
+    "zip": "12345"
+  },
+  "photo": "",
+  "isDeleted": true
+},
+{
+  "_id": {
+    "$oid": "661266b8dcf757185a8f7d60"
+  },
+  "name": "Nency Rana",
+  "age": 25,
+  "email": "rananency20@gmail.com",
+  "photo": "null",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126756dcf757185a8f7d6c"
+  },
+  "name": "Nency Rana",
+  "age": 36,
+  "email": "rananency20@gmail.com",
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661269ea1a6cb4c8072485a9"
+  },
+  "name": "Nency Rana",
+  "age": 20,
+  "email": "rananency20@gmail.com",
+  "photo": null,
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126a3e1a6cb4c8072485ae"
+  },
+  "name": "Nency Rana",
+  "age": 20,
+  "email": "rananency20@gmail.com",
+  "photo": null,
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126bcb1a6cb4c8072485b4"
+  },
+  "name": "Nency Rana",
+  "age": 20,
+  "email": "rananency20@gmail.com",
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126c141a6cb4c8072485b8"
+  },
+  "name": "Nency Rana",
+  "age": 25,
+  "email": "rananency20@gmail.com",
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126c761a6cb4c8072485bc"
+  },
+  "name": "Nency Rana",
+  "age": 22,
+  "email": "rananency20@gmail.com",
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": null,
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126cd11a6cb4c8072485c2"
+  },
+  "name": "Nency Rana",
+  "age": 20,
+  "email": "rananency20@gmail.com",
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126d061a6cb4c8072485c6"
+  },
+  "name": "Nency Rana",
+  "age": 20,
+  "email": "rananency20@gmail.com",
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": null,
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126d311a6cb4c8072485c8"
+  },
+  "name": "Nency Rana",
+  "age": 22,
+  "email": "rananency20@gmail.com",
+  "dateOfBirth": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126d501a6cb4c8072485cc"
+  },
+  "name": "Nency Rana",
+  "age": 20,
+  "email": "rananency20@gmail.com",
+  "dateOfBirth": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126e07d592e85a8340dfd9"
+  },
+  "name": "Nency Rana",
+  "age": 25,
+  "email": "rananency20@gmail.com",
+  "dateOfBirth": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126e89689e0b7bbc574626"
+  },
+  "name": "mahesh",
+  "age": 15,
+  "email": "abc@gmail.com",
+  "dateOfBirth": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "address": {
+    "street": "abc",
+    "city": "xyz",
+    "state": "qwe",
+    "zip": "12345"
+  },
+  "photo": "",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126f27689e0b7bbc574639"
+  },
+  "name": "Nency Rana",
+  "age": 22,
+  "email": "rananency20@gmail.com",
+  "dateOfBirth": {
+    "$date": "2024-04-03T00:00:00.000Z"
+  },
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66126f75689e0b7bbc574643"
+  },
+  "name": "Nency Rana",
+  "age": 25,
+  "email": "rananency20@gmail.com",
+  "dateOfBirth": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661271ed689e0b7bbc574663"
+  },
+  "name": "Nency Rana",
+  "age": 20,
+  "email": "rananency20@gmail.com",
+  "dateOfBirth": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "address": {
+    "street": "6/102-1, vairagi ni wadi, manchharpura, delhi gate, near sumiloan industry",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zip": "395003"
+  },
+  "photo": "C:\\fakepath\\Untitled 1.png",
+  "isDeleted": false,
+  "__v": 0
+}]

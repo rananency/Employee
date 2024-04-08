@@ -1,6 +1,7 @@
 const express = require('express');
 const employeeRoutes = require('./src/routes/employee');
 const authorize = require('./src/security/token');
+var mongoose = require('./src/database/connection');//to avoid the buffering error
 const cors = require('cors');
 const app = express();
 

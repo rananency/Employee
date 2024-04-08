@@ -1,9 +1,5 @@
 const express = require('express');
 const router = express.Router();
-const { addEmployee } = require("../controller/addEmployee");
-const { deleteEmployee } = require("../controller/deleteEmployee");
-const { getEmployee } = require("../controller/getEmployee");
-const { updateEmployee } = require("../controller/updateEmployee");
 const { employee } = require('../database/employeeModal');
 
 router.post('/', async (req, res) => {
